@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//Java 별찍기
+//Java 다이아몬드찍기
 public class Practice {
 
     public static void main(String[] args) throws IOException {
